@@ -6,4 +6,5 @@ Task 1:
 git fetch gets new information from a remote repository and puts it in your local repository.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
+Github is a remote hub that lets you manage Git repositories.
 
