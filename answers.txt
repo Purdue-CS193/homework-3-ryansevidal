@@ -3,7 +3,7 @@ hi
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+git fetch gets new information from a remote repository and puts it in your local repository.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
 
